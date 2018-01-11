@@ -1,1 +1,2 @@
-# Exams---Techmodule
+# SoftUniHomeworks
+Problems solved as SoftUni homework.
